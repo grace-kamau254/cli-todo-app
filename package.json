@@ -11,6 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "commander": "^13.1.0"
+    "@prisma/client": "^6.5.0",
+    "commander": "^13.1.0",
+    "prisma": "^6.5.0"
   }
 }
